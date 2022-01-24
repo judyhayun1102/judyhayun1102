@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judyhayun1102
-- 👀 I’m interested in programming and music:)
+- 👀 I’m interested in programming, applied mathematics research, and music :)
 - 🌱 I’m currently studying mathematics, cognitive science, and computer science. 
-- 💞️ I’m looking to collaborate on computational linguistics!
+- 💞️ I’m looking to collaborate on computational linguistics and applied mathematics regarding traffic civil engineering!
 - 📫 Reach me with hayun.kim@mail.utoronto.ca
 
 <!---
