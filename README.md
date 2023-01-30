@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judyhayun1102
-- 👀 I’m interested in programming, applied mathematics research, and linguistics :)
-- 🌱 I’m currently studying mathematics, linguistics, and computer science. 
-- 💞️ I’m looking to collaborate on computational linguistics and applied mathematics regarding traffic civil engineering!
+- 👀 I’m interested in front-end development, financial analysis, and cognitive science research :)
+- 🌱 I’m currently studying mathematics, computational cognitive science, and computer science. 
+- 💞️ I’m looking to collaborate on web development or data analysis project!
 - 📫 Reach me with hayun.kim@mail.utoronto.ca
 
 <!---
