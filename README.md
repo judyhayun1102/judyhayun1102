@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judyhayun1102
-- 👀 I’m interested in front-end development, financial analysis, and cognitive science research :)
+- 👀 I’m interested in Project Management, Urban Planning, and Cognitive Science research :)
 - 🌱 I’m currently studying mathematics, computational cognitive science, and computer science. 
-- 💞️ I’m looking to collaborate on web development or data analysis project!
+- 💞️ I’m looking to collaborate on web development or UX design project!
 - 📫 Reach me with hayun.kim@mail.utoronto.ca
 
 <!---
